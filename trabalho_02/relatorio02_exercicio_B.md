@@ -58,7 +58,7 @@ Agora, aplicamos as regras de esboço do LDR para a nova função $\\hat{g}\_{re
 
   - **Polos e Zeros:**
 
-      - Polos: $p\_{1,2} = -0,0435 \\pm j0,355$ ($n=2$).
+      - Polos: $p_{1,2} = -0,0435 \pm j0,355$ ($n=2$).
       - Zeros: Nenhum ($m=0$).
 
   - **Ramos no Eixo Real:** Como não há polos ou zeros reais, não existem ramos do LDR sobre o eixo real.
@@ -69,9 +69,11 @@ Agora, aplicamos as regras de esboço do LDR para a nova função $\\hat{g}\_{re
       - Centróide ($\\sigma\_a$):
         $$\sigma_a = \frac{\sum \text{polos}}{n-m} = \frac{-0,0435 - 0,0435}{2} = -0,0435$$
       - Ângulos ($\\phi\_k$):
-        $$\phi_k = \frac{(2k+1)180^\circ}{2} \quad \text{para } k=0, 1$$
-          - $\\phi\_0 = 90^\\circ$
-          - $\\phi\_1 = 270^\\circ \\equiv -90^\\circ$
+        $\phi_k = \frac{(2k+1)180^\circ}{2} \quad \text{para } k=0, 1$
+        
+        $\phi\_0 = 90^\circ$
+
+        $\phi\_1 = 270^\circ \equiv -90^\circ$
 
 ### Passo 4: Geração do Gráfico do Lugar das Raízes
 
