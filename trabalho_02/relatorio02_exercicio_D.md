@@ -92,9 +92,7 @@ Para compensar o efeito do zero do compensador, propomos uma segunda tentativa c
    - **Novo ganho:** $K_c \approx 1,02$
 
 - **Compensador Revisado:**
-  $$
-  C_{red2}(s) = \frac{1,02(s+0,55)}{s}
-  $$
+  $C_{red2}(s) = \frac{1,02(s+0,55)}{s}$
 
 **Resultado Esperado da Segunda Tentativa:**
 - Overshoot estimado: ~15-18% (considerando o efeito do zero)
