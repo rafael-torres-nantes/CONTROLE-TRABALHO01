@@ -1,0 +1,32 @@
+# --- Dados que representam o uso de IA ---
+.claude/
+.superpowers/
+.gemini/
+CLAUDE.md
+GEMINI.md
+
+# --- Dado financeiro nunca e versionado ---
+*.xlsx
+*.xls
+*.csv
+
+# --- Arquivos temporarios ---
+tmp/
+output/
+
+# --- Saida do graphify - derivada, reconstruivel a qualquer momento ---
+graphify-out/
+.graphifyignore
+.graphify/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# --- Ambiente ---
+.env
